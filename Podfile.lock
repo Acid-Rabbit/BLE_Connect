@@ -1,0 +1,35 @@
+PODS:
+  - IBAnimatable (6.1.0)
+  - Instantiate (4.0.0)
+  - InstantiateStandard (4.0.0):
+    - Instantiate (~> 4.0)
+  - LTMorphingLabel (0.8.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+
+DEPENDENCIES:
+  - IBAnimatable
+  - Instantiate
+  - InstantiateStandard
+  - LTMorphingLabel
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - IBAnimatable
+    - Instantiate
+    - InstantiateStandard
+    - LTMorphingLabel
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  Instantiate: 62516e7dde448721c1f5815a9ee7e0669d034d52
+  InstantiateStandard: 18ab1417ba787113350c71a5b2251f0b4448be67
+  LTMorphingLabel: 1ada1cb5c046ae4ce5c66b428cf2e05e227e8e4f
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+
+PODFILE CHECKSUM: a3c77edc19afd17a0e9910c3c2d1ef3dc3883c18
+
+COCOAPODS: 1.8.3
